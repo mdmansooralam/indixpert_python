@@ -1,0 +1,20 @@
+[
+    {
+        "name": "laptop",
+        "price": 45.0,
+        "quantity": 56,
+        "id": "62FD"
+    },
+    {
+        "name": "camera",
+        "price": "5000",
+        "quantity": "10",
+        "id": "F0EA"
+    },
+    {
+        "name": "watch",
+        "price": "5000",
+        "quantity": "10",
+        "id": "5FEA"
+    }
+]
